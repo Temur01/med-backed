@@ -63,3 +63,4 @@ The server accepts multipart/form-data with:
 
 The server uses OpenAI GPT-3.5-turbo to generate medical analysis based on patient information.
 # checking-RNG
+# med-backed
